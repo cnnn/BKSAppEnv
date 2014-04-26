@@ -1,8 +1,0 @@
-Package: com.N3.BKSAppEnv
-Name: BKSAppEnv
-Depends: mobilesubstrate
-Version: 0.1
-Architecture: iphoneos-arm
-Maintainer: NiaN Chen <cnnn@me.com>
-Author: NiaN Chen
-Section: Tweaks
